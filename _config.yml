@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site settings
 title: Blog - BoolFunc
 description: "A blog for sharing thoughts on technology, architect about SaaS."
@@ -40,6 +39,3 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
-=======
-theme: jekyll-theme-architect
->>>>>>> c1f5a3a36217411842d7af981e2a5c989d7f5636
