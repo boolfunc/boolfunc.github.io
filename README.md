@@ -1,1 +1,3 @@
-# boolfunc.github.io
+## About
+
+This is personal blog of boolfunc.
